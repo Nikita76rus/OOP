@@ -1,0 +1,16 @@
+C:\Users\brobr\source\repos\LR10\LR10\bin\Debug\LR10.exe.config
+C:\Users\brobr\source\repos\LR10\LR10\bin\Debug\LR10.exe
+C:\Users\brobr\source\repos\LR10\LR10\bin\Debug\LR10.pdb
+C:\Users\brobr\source\repos\LR10\LR10\obj\Debug\LR10.csproj.AssemblyReference.cache
+C:\Users\brobr\source\repos\LR10\LR10\obj\Debug\LR10.csproj.SuggestedBindingRedirects.cache
+C:\Users\brobr\source\repos\LR10\LR10\obj\Debug\MainWindow.g.cs
+C:\Users\brobr\source\repos\LR10\LR10\obj\Debug\App.g.cs
+C:\Users\brobr\source\repos\LR10\LR10\obj\Debug\LR10_MarkupCompile.cache
+C:\Users\brobr\source\repos\LR10\LR10\obj\Debug\LR10_MarkupCompile.lref
+C:\Users\brobr\source\repos\LR10\LR10\obj\Debug\MainWindow.baml
+C:\Users\brobr\source\repos\LR10\LR10\obj\Debug\LR10.g.resources
+C:\Users\brobr\source\repos\LR10\LR10\obj\Debug\LR10.Properties.Resources.resources
+C:\Users\brobr\source\repos\LR10\LR10\obj\Debug\LR10.csproj.GenerateResource.cache
+C:\Users\brobr\source\repos\LR10\LR10\obj\Debug\LR10.csproj.CoreCompileInputs.cache
+C:\Users\brobr\source\repos\LR10\LR10\obj\Debug\LR10.exe
+C:\Users\brobr\source\repos\LR10\LR10\obj\Debug\LR10.pdb

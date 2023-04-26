@@ -1,0 +1,39 @@
+﻿<Window x:Class="LR10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LR10"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Margin="266,170,216,177" RenderTransformOrigin="0.5,0.5" Content="Обычная кнопка" FontFamily="Aharoni">
+            <Button.Foreground>
+                <RadialGradientBrush>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFB9A3A3" Offset="1"/>
+                </RadialGradientBrush>
+            </Button.Foreground>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="3.042"/>
+                    <RotateTransform Angle="-0.265"/>
+                    <TranslateTransform X="-2.578"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Background>
+                <LinearGradientBrush>
+                    <LinearGradientBrush.GradientStops>
+                        <GradientStop Color="LightBlue" Offset="0.803" />
+                        <GradientStop Color="DarkBlue" Offset="1" />
+                        <GradientStop Color="LightBlue" Offset="0.758"/>
+                        <GradientStop Color="#FF0D2C37" Offset="0.45"/>
+                        <GradientStop Color="#FFB1C7CE" Offset="0.211"/>
+                        <GradientStop Color="#FFA8C1C8" Offset="0.062"/>
+                    </LinearGradientBrush.GradientStops>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>
